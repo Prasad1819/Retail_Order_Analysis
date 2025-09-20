@@ -1,6 +1,6 @@
 # Retail_Order_Analysis
 
-<img width="1536" height="1024" alt="e5ab1fb9-8030-4bc8-9d0c-07953884818b" src="https://github.com/user-attachments/assets/dbfcdef4-0192-4a2a-a8de-9ad205f32ea0" />
+<img width="1500" height="1000" alt="e5ab1fb9-8030-4bc8-9d0c-07953884818b" src="https://github.com/user-attachments/assets/dbfcdef4-0192-4a2a-a8de-9ad205f32ea0" />
 
 **Tech:** Python (Pandas, Matplotlib/Seaborn), MySQL, SQLAlchemy
 
@@ -9,10 +9,9 @@ This project analyzes retail order data (sourced from Kaggle) to uncover sales t
 It demonstrates **end-to-end workflow**: Data Cleaning → SQL Storage → Analysis Queries.
 
 ## 📂 Repository Structure
-- `data/` — sample data or small extracts
+- `data/` — sample data in csv file 
 - `python Script/` — exploratory analysis (Jupyter)
 - `sql/` — DDL and analysis queries
-- `reports/` — final PDF report
 
 
 ## ⚙️ Steps Performed
