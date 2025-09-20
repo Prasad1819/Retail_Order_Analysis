@@ -33,12 +33,5 @@ It demonstrates **end-to-end workflow**: Data Cleaning → SQL Storage → Analy
 - Profit growth analysis revealed most profitable sub-categories.
 - Sales comparison highlighted trends across 2022 vs 2023.
 
-  -- find top 10 highest reveue generating products 
-SELECT product_id,sum(sale_price) AS sales
-FROM df_orders
-GROUP BY product_id
-ORDER BY sales DESC
-LIMIT 10;
-<img width="245" height="131" alt="image" src="https://github.com/user-attachments/assets/479e1401-29aa-4c4c-94e6-d654621890b2" />
 
 
