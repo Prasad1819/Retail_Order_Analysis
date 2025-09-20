@@ -32,5 +32,6 @@ It demonstrates **end-to-end workflow**: Data Cleaning → SQL Storage → Analy
 - Regional analysis showed product preferences differ by region.
 - Profit growth analysis revealed most profitable sub-categories.
 - Sales comparison highlighted trends across 2022 vs 2023.
+<img width="245" height="131" alt="image" src="https://github.com/user-attachments/assets/479e1401-29aa-4c4c-94e6-d654621890b2" />
 
 
